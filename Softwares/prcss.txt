@@ -1,0 +1,13 @@
+install node.js
+
+unrar easyrtc to C:\Users\Somdatta\nodes
+
+change name from easyrtc-master--> easyrtc
+
+in command prompt cd node\easyrtc
+
+node\easyrtc> npm install
+
+node\easyrtc> node server.js
+
+server will be started.

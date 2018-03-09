@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+#style1{
+	position:absolute;
+	left: 822px;
+	top: 499px;
+	width: 302px;
+	height: 414px;
+	}
+#style2{
+	position:absolute;
+	height:134px;
+	width:171px;
+	left: 350px;
+	top: 104px;
+	}
+	#style3{
+	position:absolute;
+	height:179px;
+	width:304px;
+	left: 14px;
+	top: 71px;
+		
+		}
+	#style4{
+	position:absolute;
+	height:130px;
+	width:233px;
+	left: 331px;
+	top: 72px;
+		}

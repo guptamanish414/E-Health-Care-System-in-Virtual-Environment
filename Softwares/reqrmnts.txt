@@ -1,0 +1,13 @@
+node install
+
+easyrtc
+
+static in easyrtc
+
+chrome setup
+
+mysql server
+
+apache tomcat 7
+
+C:\Users\ASOK-HP\nodes\easyrtc

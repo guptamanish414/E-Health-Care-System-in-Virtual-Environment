@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+#chat{
+	position:absolute;
+	left: 488px;
+	top: 850px;
+	width: 275px;
+	height: 192px;
+	}
+#chatbox{
+	position:absolute;
+	left: 9px;
+	top: 18px;
+	width: 232px;
+	height: 86px;
+	
+	}
+#writebox{
+	position:absolute;
+	left: 10px;
+	top: 111px;
+	width: 231px;
+	height: 41px;
+	}
+#send{
+	position:absolute;
+	left: 152px;
+	top: 166px;
+	width: 46px;
+	}

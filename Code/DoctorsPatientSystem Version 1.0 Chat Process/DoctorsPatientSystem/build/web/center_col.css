@@ -1,0 +1,14 @@
+#center_col{
+	position:absolute;
+	width: 172px;
+	top: 5px;
+	height: 1032px;
+	left: -285px;
+
+}
+#sidebar{
+	position:absolute;
+	left: 810px;
+	top: 324px;
+	height: 637px;
+}

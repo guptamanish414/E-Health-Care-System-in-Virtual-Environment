@@ -1,0 +1,7 @@
+Copy nodes folder in this path
+C:\Users\nodes
+
+open cmd
+cd C:\Users\nodes\easyrtc-master\server_example
+
+node server
